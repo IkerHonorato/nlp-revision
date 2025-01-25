@@ -9,6 +9,12 @@ readme = "README.md"
 python = "^3.10"
 fastapi = "^0.115.6"
 uvicorn = "^0.34.0"
+transformers = "^4.48.1"
+torch = "^2.5.1"
+streamlit = "^1.41.1"
+pypdf2 = "^3.0.1"
+python-multipart = "^0.0.20"
+llama-cpp-python = "^0.3.6"
 
 
 [build-system]
